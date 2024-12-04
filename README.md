@@ -3,7 +3,7 @@
 ## 🌟 Hola, bienvenido a mi página ;)
 Soy Houssam Oujelloul, un apasionado desarrollador especializado en diseño de interfaces intuitivas y eficientes. Mi objetivo es crear experiencias digitales que marquen la diferencia.
 
-## 🛠️ Habilidades
+## 🛠️ Estas son las herramientas que suelo usar y considero que tengo habilidades con ellas.
 - **Lenguajes:** HTML, CSS, JavaScript, Python.
 - **Frameworks:** React, Angular.
 - **Herramientas:** Git, Figma, Visual Studio Code.
