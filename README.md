@@ -9,7 +9,8 @@ Soy Houssam Oujelloul, un apasionado desarrollador especializado en diseño de i
 - **Herramientas:** Git, Figma, Visual Studio Code.
 - **Otros:** Diseño responsivo, metodologías ágiles.
 
-## 📬 Contacto
+## 📬 Aquí te muestro los sitios donde puedes encontrarme.
 - **LinkedIn:** [[linkedin.com/in/](https://linkedin.com/in/juangarcia](https://www.linkedin.com/in/houssam-oujelloul-587336313/))
 - **Correo:** houssamoujelloul@gmail.com
-
+-**Instagram:** Houssam__17
+-**Facebook:** Houssam_17
