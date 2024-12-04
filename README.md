@@ -1,6 +1,6 @@
 # Hola, encantado de verte :)
 
-## 🌟 Introducción
+## 🌟 Hola, bienvenido a mi página ;)
 Soy Houssam Oujelloul, un apasionado desarrollador especializado en diseño de interfaces intuitivas y eficientes. Mi objetivo es crear experiencias digitales que marquen la diferencia.
 
 ## 🛠️ Habilidades
