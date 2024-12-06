@@ -9,26 +9,29 @@ Me llamo Houssam Oujelloul Ghouzali, un apasionado desarrollador que transforma 
 Si quieres saber más sobre mí y lo que puedo ofrecer, ¡acompáñame en este recorrido! 🚀
 
 🛠️ Mis herramientas y habilidades favoritas
-
 🌟 Cada herramienta es una pieza clave en mi trabajo, y estas son mis favoritas:
-
 🔑 Lenguajes de programación:
 
 HTML 🖋️: El esqueleto que da vida a cualquier sitio web.
+
 CSS 🎨: Donde la creatividad se encuentra con el estilo.
+
 JavaScript ⚡: La chispa de interactividad en cada aplicación.
 
 🌐 Frameworks y bibliotecas:
-
 React ⚛️: Ideal para construir interfaces dinámicas y modernas.
+
 Angular 🅰️: Robustez y escalabilidad para proyectos avanzados.
 
 🛠️ Herramientas y metodologías:
 
 Git 🔄: Para colaborar en equipo de forma efectiva y organizada.
+
 Figma 🖌️: Donde las ideas se convierten en diseños visuales impactantes.
 Visual Studio Code 💻: Mi laboratorio creativo favorito.
+
 Diseño responsivo 📱: Asegurándome de que todo se vea perfecto en cualquier dispositivo.
+
 Metodologías ágiles 🏃‍♂️: Adaptándome rápidamente a los cambios con un enfoque en resultados claros.
 
 📬 ¡Conecta conmigo! 🌟
