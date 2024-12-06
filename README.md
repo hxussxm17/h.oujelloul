@@ -1,4 +1,5 @@
-🌟 ¡HOLA! ¡QUÉ ALEGRÍA QUE ESTÉS POR AQUÍ! 😊     ![image](https://github.com/user-attachments/assets/c3d8bb1b-6884-4115-9d49-d587f08d6c24)
+🌟 ¡HOLA! ¡QUÉ ALEGRÍA QUE ESTÉS POR AQUÍ! 😊  ![image](https://github.com/user-attachments/assets/8931456f-3331-4f9b-97e6-1adc61d8e808)
+    
 
 
 🎉 ¡Bienvenido a mi espacio digital! 🌐
