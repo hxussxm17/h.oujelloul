@@ -1,4 +1,5 @@
-🌟 ¡Hola! ¡Qué alegría que estés por aquí! 😊
+🌟 ¡HOLA! ¡QUÉ ALEGRÍA QUE ESTÉS POR AQUÍ! 😊
+
 🎉 ¡Bienvenido a mi espacio digital! 🌐
 Me llamo Houssam Oujelloul Ghouzali, un apasionado desarrollador que transforma ideas en experiencias digitales únicas y memorables.
 ✨ ¿Qué me motiva? Crear soluciones tecnológicas que no solo sean funcionales, sino que también conecten emocionalmente con las personas.
