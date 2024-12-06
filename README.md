@@ -10,7 +10,8 @@ Si quieres saber más sobre mí y lo que puedo ofrecer, ¡acompáñame en este r
 
 🛠️ Mis herramientas y habilidades favoritas
 🌟 Cada herramienta es una pieza clave en mi trabajo, y estas son mis favoritas:
-🔑 Lenguajes de programación:
+
+🔑 LENGUAJES DE PROGRAMACIÓN:
 
 HTML 🖋️: El esqueleto que da vida a cualquier sitio web.
 
