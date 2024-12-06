@@ -32,22 +32,18 @@ Diseño responsivo 📱: Asegurándome de que todo se vea perfecto en cualquier 
 Metodologías ágiles 🏃‍♂️: Adaptándome rápidamente a los cambios con un enfoque en resultados claros.
 
 📬 ¡Conecta conmigo! 🌟
-
 Siempre estoy abierto a nuevas oportunidades, proyectos interesantes o simplemente a charlar sobre ideas emocionantes. ¡No dudes en contactarme por los siguientes canales!
 
 🌟 LinkedIn:
-
 🔗 Visita mi perfil profesional
 Conéctate conmigo para explorar colaboraciones, intercambiar ideas o simplemente decir "hola".
 
 
 📸 Instagram:
-
 📷 @Houssam__17
 Echa un vistazo a mi lado creativo y personal.
 
 📘 Facebook:
-
 📘 @Houssam_17
 Sígueme para estar al tanto de mis proyectos y actualizaciones.
 
