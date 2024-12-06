@@ -24,7 +24,7 @@ React ⚛️: Ideal para construir interfaces dinámicas y modernas.
 
 Angular 🅰️: Robustez y escalabilidad para proyectos avanzados.
 
-🛠️ Herramientas y metodologías:
+🛠️ HERRAMIENTAS Y METODOLOGÍAS:
 
 Git 🔄: Para colaborar en equipo de forma efectiva y organizada.
 
@@ -35,7 +35,7 @@ Diseño responsivo 📱: Asegurándome de que todo se vea perfecto en cualquier 
 
 Metodologías ágiles 🏃‍♂️: Adaptándome rápidamente a los cambios con un enfoque en resultados claros.
 
-📬 ¡Conecta conmigo! 🌟
+📬 ¡CONTACTA CONMIGO! 🌟
 Siempre estoy abierto a nuevas oportunidades, proyectos interesantes o simplemente a charlar sobre ideas emocionantes. ¡No dudes en contactarme por los siguientes canales!
 
 🌟 LinkedIn:
@@ -51,7 +51,7 @@ Echa un vistazo a mi lado creativo y personal.
 📘 @Houssam_17
 Sígueme para estar al tanto de mis proyectos y actualizaciones.
 
-✨ ¡Construyamos algo increíble juntos!
+✨ ¡CONSTRUYAMOS ALGO INCREÍBLE JUNTOS!
 
 Ya sea que busques:
 🎯 Un diseño único y funcional,
@@ -60,7 +60,7 @@ Ya sea que busques:
 
 ¡Estoy aquí para ayudarte! Trabajemos juntos y llevemos tus ideas al siguiente nivel.
 
-🌈 Gracias por visitar mi espacio digital.
+🌈 GRACIAS POR VISITAR MI ESPACIO DIGITAL.
 Espero que encuentres inspiración y nos pongamos en contacto pronto. ¡Hagamos magia juntos! 💫
 
 
